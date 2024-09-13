@@ -8,6 +8,8 @@ The _Portsmouth Climate Action_ brand comprises a symbol and the name set in the
 - The **recommended social media logo variant** is at `/assets/logos/png/symbol-only/pca-for-circle_neg.png`.
     - It places the symbol only on a `pca-blue` background, sized to allow for circular masking.
 
+<img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-for-circle_neg.png" width="120" alt="PCA star, crescent and leaves symbol on blue.">
+
 ## Font
 
 Playfair Display
@@ -21,6 +23,8 @@ Playfair Display
 - The preferred use of the logo variants is ‘reversed out of’ a _dark_ background: **neg** elements.
 - Variants are available for use on a _white or light_ background: **pos** elements.
 - All of the logo variants _except for `pca-for-circle_neg.png`_ have a transparent background.
+
+See visuals of the options available at the base of this README.
 
 ## Logo arrangement variants
 
@@ -47,3 +51,9 @@ The variants are available as:
 | `pca-blue` | Star, crescent + name on light background;  or as explicit dark background | `rgb(29 62 113)` | `hsl(216.4deg 59.2% 27.8%)` | `#1d3e71` |
 | `pca-lime` | Bright leaf elements on dark background | `rgb(194 230 77)` | `hsl(hsl(74.1deg 75.4% 60.2%)` | `#c2e64d` |
 | `pca-green` | Darker leaf elements on light background | `rgb(157 199 67)` | `hsl(79.1deg 54.1% 52.2%)` | `#9dc743` |
+
+Here are some visuals of the options available but please use the individual files in `/assets/logos`:
+
+<img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-collection-neg.jpg" alt="PCA logos on blue." width="100%">
+
+<img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-collection-pos.jpg" alt="PCA logos on white." width="100%">
