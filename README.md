@@ -46,14 +46,43 @@ The variants are available as:
 
 ## Colours
 
-| Colour | Usage | RGB | HSL | Hexadecimal |
-|---|---|---|---|---|
-| `pca-blue` | Star, crescent + name on light background;  or as explicit dark background | `rgb(29 62 113)` | `hsl(216.4deg 59.2% 27.8%)` | `#1d3e71` |
-| `pca-lime` | Bright leaf elements on dark background | `rgb(194 230 77)` | `hsl(hsl(74.1deg 75.4% 60.2%)` | `#c2e64d` |
-| `pca-green` | Darker leaf elements on light background | `rgb(157 199 67)` | `hsl(79.1deg 54.1% 52.2%)` | `#9dc743` |
+<table>
+    <thead>
+        <tr>
+            <th>Colour</th>
+            <th>Usage</th>
+            <th>RGB</th>
+            <th>HSL</th>
+            <th>Hexadecimal</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="background:#1d3e71; color:white"><code>pca-blue</code></td>
+            <td>Star, crescent + name on light background;  or as explicit dark background</td>
+            <td><code>rgb(29 62 113)</code></td>
+            <td><code>hsl(216.4deg 59.2% 27.8%)</code></td>
+            <td><code>#1d3e71</code></td>
+        </tr>
+        <tr>
+            <td style="background:#c2e64d; color:black"><code>pca-lime</code></td>
+            <td>Bright leaf elements on dark background</td>
+            <td><code>rgb(194 230 77)</code></td>
+            <td><code>hsl(hsl(74.1deg 75.4% 60.2%)</code></td>
+            <td><code>#c2e64d</code></td>
+        </tr>
+        <tr>
+            <td style="background:#9dc743; color:white"><code>pca-green</code></td>
+            <td>Darker leaf elements on light background</td>
+            <td><code>rgb(157 199 67)</code></td>
+            <td><code>hsl(79.1deg 54.1% 52.2%)</code></td>
+            <td><code>#9dc743</code></td>
+        </tr>
+    </tbody>
+</table>
 
 - - -
 
-Here are some visuals of the **neg** options available but please use the individual files in `/assets/logos`:
+Here is a visual of the **neg** options available but please use the individual files in `/assets/logos`:
 
 <img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-collection-neg.jpg" alt="PCA logos on blue." width="100%">
