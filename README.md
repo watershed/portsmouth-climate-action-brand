@@ -5,7 +5,7 @@ The _Portsmouth Climate Action_ brand comprises a symbol and the name set in the
 - The master file for all the logo variants described below is an Adobe Illustrator 2020 compatible file. You can find it at `/src/pca-logo-master.ai`.
     - Variants for use in print can be derived from this file or requested – e.g. `eps` or `pdf` format.
 - The variants themselves are at `/assets/logos`.
-- The **recommended social media logo variant** is at `/assets/logos/png/symbol-only/pca-for-circle_neg.png`.
+- The **recommended social media logo variant** is at `/assets/logos/png/symbol-only/pca-for-circle_neg.png` and shown directly below.
     - It places the symbol only on a `pca-blue` background, sized to allow for circular masking.
 
 <img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-for-circle_neg.png" width="120" alt="PCA star, crescent and leaves symbol on blue.">
@@ -52,8 +52,8 @@ The variants are available as:
 | `pca-lime` | Bright leaf elements on dark background | `rgb(194 230 77)` | `hsl(hsl(74.1deg 75.4% 60.2%)` | `#c2e64d` |
 | `pca-green` | Darker leaf elements on light background | `rgb(157 199 67)` | `hsl(79.1deg 54.1% 52.2%)` | `#9dc743` |
 
-Here are some visuals of the options available but please use the individual files in `/assets/logos`:
+- - -
+
+Here are some visuals of the **neg** options available but please use the individual files in `/assets/logos`:
 
 <img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-collection-neg.jpg" alt="PCA logos on blue." width="100%">
-
-<img src="https://www.portsmouthclimateaction.org.uk/assets/logos/pca-collection-pos.jpg" alt="PCA logos on white." width="100%">
